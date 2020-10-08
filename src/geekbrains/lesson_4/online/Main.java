@@ -16,10 +16,8 @@ public class Main
     public static void main(String[] args)
     {
         // write your code here
-
         // 1. инициализировать поле
         initMap();
-
         // 1.1 Вывод поля
         printMap();
 
