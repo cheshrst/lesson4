@@ -19,7 +19,6 @@ public class Main
 
         // 1. инициализировать поле
         initMap();
-
         // 1.1 Вывод поля
         printMap();
 
